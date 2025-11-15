@@ -1,257 +1,45 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 2 FHD
-http://saga10.pro:80/345715/562156/2909015
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 2 HD
-http://saga10.pro:80/345715/562156/2909016
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 2 SD
-http://saga10.pro:80/345715/562156/2909017
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 3 FHD
-http://saga10.pro:80/345715/562156/2909018
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 3 HD
-http://saga10.pro:80/345715/562156/2909019
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 3 SD
-http://saga10.pro:80/345715/562156/2909020
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 4 FHD
-http://saga10.pro:80/345715/562156/2909021
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 4 HD
-http://saga10.pro:80/345715/562156/2909022
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 4 SD
-http://saga10.pro:80/345715/562156/2909023
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 5 FHD
-http://saga10.pro:80/345715/562156/2909024
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 5 HD
-http://saga10.pro:80/345715/562156/2909025
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 5 SD
-http://saga10.pro:80/345715/562156/2909026
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 6 FHD
-http://saga10.pro:80/345715/562156/2909027
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 6 HD
-http://saga10.pro:80/345715/562156/2909028
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 6 SD
-http://saga10.pro:80/345715/562156/2909029
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 7 FHD
-http://saga10.pro:80/345715/562156/2909030
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 7 HD
-http://saga10.pro:80/345715/562156/2909031
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE 7 SD
-http://saga10.pro:80/345715/562156/2909032
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE CLUBES FHD
-http://saga10.pro:80/345715/562156/2909035
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE CLUBES HD
-http://saga10.pro:80/345715/562156/2909036
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 1",PREMIERE CLUBES SD
-http://saga10.pro:80/345715/562156/2909037
 
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 2",PREMIERE 1
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 1
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120716
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 2",PREMIERE 2
-http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120717
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 2",PREMIERE 3
-http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120718
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 2",PREMIERE 4
-http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120719
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 2",PREMIERE 5
-http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120720
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 2",PREMIERE 7
-http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120721
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 2",PREMIERE 8
-http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120722
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 2",PREMIERE CLUBES
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 2 SD
+http://saga10.pro:80/345715/562156/2909017
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 3 FHD
+http://saga10.pro:80/345715/562156/2909018
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 3 SD
+http://saga10.pro:80/345715/562156/2909020
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 4 SD
+http://saga10.pro:80/345715/562156/2909023
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 5 HD
+http://saga10.pro:80/345715/562156/2909025
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 5 SD
+http://saga10.pro:80/345715/562156/2909026
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 6 SD
+http://saga10.pro:80/345715/562156/2909029
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 7 HD
+http://saga10.pro:80/345715/562156/2909031
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE 7 SD
+http://saga10.pro:80/345715/562156/2909032
+#EXTINF:-1 group-title="CANAIS PREMIERE",PREMIERE CLUBES
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120723
-
-
-
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere Clubes
-http://painel.iptvmove.com:25461/live/danga07/1963/1269.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere Clubes HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1378.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 2
-http://painel.iptvmove.com:25461/live/danga07/1963/1277.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 2 HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1377.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 3
-http://painel.iptvmove.com:25461/live/danga07/1963/1276.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 3 HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1376.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 4
-http://painel.iptvmove.com:25461/live/danga07/1963/1275.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 4 HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1375.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 5
-http://painel.iptvmove.com:25461/live/danga07/1963/1274.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 5 HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1374.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 6
-http://painel.iptvmove.com:25461/live/danga07/1963/1273.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 7
-http://painel.iptvmove.com:25461/live/danga07/1963/1272.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 8
-http://painel.iptvmove.com:25461/live/danga07/1963/1271.m3u8
-#EXTINF:-1 group-title="CANAIS PREMIERE | SERVER 3",Premiere 9
-http://painel.iptvmove.com:25461/live/danga07/1963/1270.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="CANAIS PARAMOUNT",PARAMOUNT PLUS - 01
-http://saga10.pro:80/345715/562156/2649054
-#EXTINF:-1 group-title="CANAIS PARAMOUNT",PARAMOUNT PLUS - 02
-http://saga10.pro:80/345715/562156/2649055
-#EXTINF:-1 group-title="CANAIS PARAMOUNT",PARAMOUNT PLUS - 03
-http://saga10.pro:80/345715/562156/2649056
-#EXTINF:-1 group-title="CANAIS PARAMOUNT",PARAMOUNT PLUS - 04
-http://saga10.pro:80/345715/562156/2649057
-#EXTINF:-1 group-title="CANAIS PARAMOUNT",PARAMOUNT PLUS - 05
-http://saga10.pro:80/345715/562156/2649058
-#EXTINF:-1 group-title="CANAIS PARAMOUNT",PARAMOUNT PLUS - 06
-http://saga10.pro:80/345715/562156/2649059
-#EXTINF:-1 group-title="CANAIS PARAMOUNT",PARAMOUNT FHD
-http://saga10.pro:80/345715/562156/2639920
-#EXTINF:-1 group-title="CANAIS PARAMOUNT",PARAMOUNT HD
+#EXTINF:-1 group-title="CANAL PARAMOUNT",PARAMOUNT HD
 http://saga10.pro:80/345715/562156/2639921
-
-
-
-#EXTINF:-1 group-title="CANAIS TNT SPORTS | SERVER 1",TNT SPORTS 01
-http://saga10.pro:80/345715/562156/2649063
-#EXTINF:-1 group-title="CANAIS TNT SPORTS | SERVER 1",TNT SPORTS 02
-http://saga10.pro:80/345715/562156/2649064
-#EXTINF:-1 group-title="CANAIS TNT SPORTS | SERVER 1",TNT SPORTS 03
-http://saga10.pro:80/345715/562156/2649065
-
-#EXTINF:-1 group-title="CANAIS TNT SPORTS | SERVER 2",TNT SPORTS
+#EXTINF:-1 group-title="CANAIS TNT SPORTS",TNT SPORTS
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120760
-#EXTINF:-1 group-title="CANAIS TNT SPORTS | SERVER 2",TNT SPORTS 2
-http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120761
-#EXTINF:-1 group-title="CANAIS TNT SPORTS | SERVER 2",TNT SPORTS 3
-http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120762
-
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 1",SPORTV 2 FHD
-http://saga10.pro:80/345715/562156/2909004
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 1",SPORTV 2 HD
-http://saga10.pro:80/345715/562156/2909005
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 1",SPORTV 2 SD
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 2 SD (Server 1)
 http://saga10.pro:80/345715/562156/2909006
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 1",SPORTV 3 FHD
-http://saga10.pro:80/345715/562156/2909007
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 1",SPORTV 3 HD
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 3 HD
 http://saga10.pro:80/345715/562156/2909008
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 1",SPORTV 3 SD
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 3 SD
 http://saga10.pro:80/345715/562156/2909009
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 1",SPORTV FHD
-http://saga10.pro:80/345715/562156/2909010
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 1",SPORTV HD
-http://saga10.pro:80/345715/562156/2909011
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 1",SPORTV SD
-http://saga10.pro:80/345715/562156/2909012
-
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 2",SPORTV
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120832
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 2",SPORTV 2
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 2 SD (Server 2)
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120833
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 2",SPORTV 1
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 1
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120743
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 2",SPORTV 2
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 2 HD
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120744
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 2",SPORTV 3
+#EXTINF:-1 group-title="CANAIS SPORTV",SPORTV 3
 http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120745
-
-
-
-
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 3",SporTV
-http://painel.iptvmove.com:25461/live/danga07/1963/1254.m3u8
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 3",SporTV HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1367.m3u8
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 3",SporTV 2
-http://painel.iptvmove.com:25461/live/danga07/1963/1253.m3u8
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 3",SporTV 2 HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1369.m3u8
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 3",SporTV 3
-http://painel.iptvmove.com:25461/live/danga07/1963/1252.m3u8
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 3",SporTV 3 HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1368.m3u8
-
-
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 4", SPORTV 
-http://5.79.68.138:8081/look/sportv/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS SPORTV | SERVER 4",SPORTV 2
-http://5.79.68.138:8081/look/sportv2/playlist.m3u8
-
-
-
-
-
-#EXTINF:-1 group-title="CANAIS FOX SPORTS | SERVER 1",FOX SPORTS [Alter]
-http://painel.iptvmove.com:25461/live/danga07/1963/3124.m3u8
-#EXTINF:-1 group-title="CANAIS FOX SPORTS | SERVER 1",FOX SPORTS 2 [Alter]
-http://painel.iptvmove.com:25461/live/danga07/1963/3123.m3u8
-#EXTINF:-1 group-title="CANAIS FOX SPORTS | SERVER 1",FOX SPORTS 2 HD [Alter]
-http://painel.iptvmove.com:25461/live/danga07/1963/3122.m3u8
-#EXTINF:-1 group-title="CANAIS FOX SPORTS | SERVER 1",FOX SPORTS 2 HD [Alter2]
-http://painel.iptvmove.com:25461/live/danga07/1963/3121.m3u8
-#EXTINF:-1 group-title="CANAIS FOX SPORTS | SERVER 1",FOX SPORTS HD [Alter]
-http://painel.iptvmove.com:25461/live/danga07/1963/3120.m3u8
-#EXTINF:-1 group-title="CANAIS FOX SPORTS | SERVER 1",FOX SPORTS HD [Alter2]
-http://painel.iptvmove.com:25461/live/danga07/1963/3119.m3u8
-
-#EXTINF:-1 "CANAIS FOX SPORTS | SERVER 2",FOX SPORTS SD
-http://95.211.149.215:8081/look/espnbr/playlist.m3u8
-
-#EXTINF:-1 "CANAIS FOX SPORTS | SERVER 2",FOX SPORTS SD
-http://link.theplatform.com/s/flac/pDqM__z_pkCD?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=lZ4PzsEq7QN8IlnWAxo20eCAcFCgoHBm&manifest=m3u8
-
-#EXTINF:-1 "CANAIS FOX SPORTS | SERVER 2",FOX SPORTS 2 SD 
-http://link.theplatform.com/s/flac/8sGhDeM4tLBi?mbr=true&feed=FoxPlay%20Sports%20Live%20Events&manifest=M3U&auth=s09d3wXWk6R6UrmCA1pokWACEAD8MJCu&manifest=m3u8
-
-#EXTINF:-1 "CANAIS FOX SPORTS | SERVER 2",FOX SPORTS 2 SD 
-http://5.79.68.138:8081/look/foxsport/playlist.m3u8
-
-
-
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 1",ESPN
-http://painel.iptvmove.com:25461/live/danga07/1963/1322.m3u8
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 1",ESPN HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1405.m3u8
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 1",ESPN +
-http://painel.iptvmove.com:25461/live/danga07/1963/1225.m3u8
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 1",ESPN+ HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1403.m3u8
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 1",ESPN Brasil
-http://painel.iptvmove.com:25461/live/danga07/1963/1321.m3u8
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 1",ESPN Brasil HD
-http://painel.iptvmove.com:25461/live/danga07/1963/1404.m3u8
-
-
-
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 2",ESPN BRASIL HD 
-http://zip.net/bxtJlR
-
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 2",ESPN 
-http://5.79.68.138:8081/look/espn/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 2",ESPN BRASIL 
-http://95.211.149.215:8081/look/espnbr/playlist.m3u8
-
-#EXTINF:-1 group-title="CANAIS ESPN | SERVER 2",ESPN + 
-http://5.79.68.138:8081/look/espn/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="CANAIS NOSSO FUTEBOL",NOSSO FUTEBOL - HD
-http://saga10.pro:80/345715/562156/2649050
-#EXTINF:-1 group-title="CANAIS NOSSO FUTEBOL",NOSSO FUTEBOL - 1 HD
-http://saga10.pro:80/345715/562156/2649051
-#EXTINF:-1 group-title="CANAIS NOSSO FUTEBOL",NOSSO FUTEBOL - 2 HD
-http://saga10.pro:80/345715/562156/2649052
-#EXTINF:-1 group-title="CANAIS NOSSO FUTEBOL",NOSSO FUTEBOL - 3 HD
-http://saga10.pro:80/345715/562156/2649053
-
-#EXTINF:-1 group-title="CANAL CONMEBOL",CONMEBOL 2
-http://5startv.xyz:8080/Tonyp/yPKEJfH4Nh/120601
